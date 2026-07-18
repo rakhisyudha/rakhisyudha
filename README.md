@@ -8,17 +8,17 @@
 
 <br/>
 
-## Persona
+## → Persona
 
 ```
 Class    : Computer Science, 4th Semester @ BINUS University
 Role     : Backend Developer
-Arcana   : Still deciding — currently leaning Magician (builder mindset)
+Arcana   : Still deciding — currently leaning Justice 
 Language : ID / EN, casually mixed
 ```
 <br/>
 
-## Social Link — Tech Stack
+## → Social Link — Tech Stack
 
 <div align="center">
 
@@ -49,19 +49,19 @@ Language : ID / EN, casually mixed
 
 <br/>
 
-## Currently In The Dungeon
+## → Currently In The Dungeon
 
-- 🏢 Building a **CRM backend** — Go/Gin + PostgreSQL + Redis, dual-environment Docker deployment on a VPS
+- 🏢 Building a **CRM backend** for PT Radius — Go/Gin + PostgreSQL + Redis, dual-environment Docker deployment on a VPS
 - ☁️ Wiring up **Google Drive resumable uploads** and GCS integration across the project
 - 🔐 Just came out of an **OAuth debugging arc** — cleaner error redirects, per-user Drive tokens
 - 📬 Shipped an **email notification system** with DKIM/SPF/DMARC 
 
 <br/>
 
-## Status Screen
+## → Status Screen
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rakhisyudha&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=6C8EEF&icon_color=3E64FF&text_color=E8EAF6&hide_rank=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rakhisyudha&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=6C8EEF&icon_color=3E64FF&text_color=E8EAF6" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhisyudha&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=6C8EEF&text_color=E8EAF6" />
 </div>
 
@@ -69,14 +69,28 @@ Language : ID / EN, casually mixed
 <img src="https://streak-stats.demolab.com/?user=rakhisyudha&hide_border=true&background=0D1B2A&ring=3E64FF&fire=6C8EEF&currStreakLabel=6C8EEF&currStreakNum=E8EAF6&sideNums=E8EAF6&sideLabels=E8EAF6&dates=6C8EEF" />
 </div>
 
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/rakhisyudha?style=for-the-badge&color=1B3A6B&labelColor=0D1B2A&logo=github&logoColor=6C8EEF" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=1B3A6B&labelColor=0D1B2A&logo=github&logoColor=6C8EEF&label=Repos&query=public_repos&url=https://api.github.com/users/rakhisyudha" />
+
+</div>
+
 <br/>
 
-## Reach Out
+## → Reach Out
 
 <div align="center">
 
 <a href="https://github.com/rakhisyudha"><img src="https://img.shields.io/badge/GitHub-0D1B2A?style=for-the-badge&logo=github&logoColor=6C8EEF" /></a>
+<a href="https://www.linkedin.com/in/rakhis-yudha/"><img src="https://img.shields.io/badge/LinkedIn-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=6C8EEF" /></a>
+<a href="https://www.instagram.com/rakhisdeyudha/"><img src="https://img.shields.io/badge/Instagram-1B3A6B?style=for-the-badge&logo=instagram&logoColor=6C8EEF" /></a>
+<img src="https://img.shields.io/badge/Discord-0D1B2A?style=for-the-badge&logo=discord&logoColor=6C8EEF" alt="ravedepr1nz" />
 
+</div>
+
+<div align="center">
+<sub>Discord: <code>ravedepr1nz</code></sub>
 </div>
 
 <br/>
