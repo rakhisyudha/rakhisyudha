@@ -8,18 +8,17 @@
 
 <br/>
 
-##  Persona
+## Persona
 
 ```
 Class    : Computer Science, 4th Semester @ BINUS University
 Role     : Backend Developer
-Arcana   : Justice (Idk, this is from survey)
-Goal     : Software Engineer @ Atlus / Sega
+Arcana   : Still deciding — currently leaning Magician (builder mindset)
 Language : ID / EN, casually mixed
 ```
 <br/>
 
-##  Social Link — Tech Stack
+## Social Link — Tech Stack
 
 <div align="center">
 
@@ -50,30 +49,29 @@ Language : ID / EN, casually mixed
 
 <br/>
 
-##  Currently In The Dungeon
+## Currently In The Dungeon
 
-- 🏢 Building a **CRM backend** — Go/Gin + PostgreSQL + Redis
+- 🏢 Building a **CRM backend** — Go/Gin + PostgreSQL + Redis, dual-environment Docker deployment on a VPS
 - ☁️ Wiring up **Google Drive resumable uploads** and GCS integration across the project
-- 🔐 Just came out of an **OAuth debugging** — cleaner error redirects, per-user Drive tokens
-- 📬 Shipped an **email notification system** with DKIM/SPF/DMARC for partnership expiry alerts
-- 🎯 Long-term: leveling up toward a SWE role at Atlus / Sega
+- 🔐 Just came out of an **OAuth debugging arc** — cleaner error redirects, per-user Drive tokens
+- 📬 Shipped an **email notification system** with DKIM/SPF/DMARC 
 
 <br/>
 
-##  Status Screen
+## Status Screen
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rakhisyudha&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=6C8EEF&icon_color=3E64FF&text_color=E8EAF6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rakhisyudha&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=6C8EEF&icon_color=3E64FF&text_color=E8EAF6&hide_rank=false" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhisyudha&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=6C8EEF&text_color=E8EAF6" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakhisyudha&hide_border=true&background=0D1B2A&ring=3E64FF&fire=6C8EEF&currStreakLabel=6C8EEF" />
+<img src="https://streak-stats.demolab.com/?user=rakhisyudha&hide_border=true&background=0D1B2A&ring=3E64FF&fire=6C8EEF&currStreakLabel=6C8EEF&currStreakNum=E8EAF6&sideNums=E8EAF6&sideLabels=E8EAF6&dates=6C8EEF" />
 </div>
 
 <br/>
 
-##  Reach Out
+## Reach Out
 
 <div align="center">
 
