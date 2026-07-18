@@ -23,6 +23,7 @@ Language : ID / EN, casually mixed
 <div align="center">
   
 **Backend**
+
 <img src="https://img.shields.io/badge/Go-1B3A6B?style=for-the-badge&logo=go&logoColor=6C8EEF" />
 <img src="https://img.shields.io/badge/Gin-0D1B2A?style=for-the-badge&logo=gin&logoColor=6C8EEF" />
 <img src="https://img.shields.io/badge/PostgreSQL-1B3A6B?style=for-the-badge&logo=postgresql&logoColor=6C8EEF" />
@@ -34,6 +35,7 @@ Language : ID / EN, casually mixed
 <img src="https://img.shields.io/badge/Laravel-1B3A6B?style=for-the-badge&logo=laravel&logoColor=6C8EEF" />
 
 **Infra & Cloud**
+
 <img src="https://img.shields.io/badge/Docker-1B3A6B?style=for-the-badge&logo=docker&logoColor=6C8EEF" />
 <img src="https://img.shields.io/badge/Nginx-0D1B2A?style=for-the-badge&logo=nginx&logoColor=6C8EEF" />
 <img src="https://img.shields.io/badge/Google_Cloud-1B3A6B?style=for-the-badge&logo=googlecloud&logoColor=6C8EEF" />
@@ -41,6 +43,7 @@ Language : ID / EN, casually mixed
 <img src="https://img.shields.io/badge/Jenkins-1B3A6B?style=for-the-badge&logo=jenkins&logoColor=6C8EEF" />
 
 **Frontend / Mobile**
+
 <img src="https://img.shields.io/badge/JavaScript-1B3A6B?style=for-the-badge&logo=javascript&logoColor=6C8EEF" />
 <img src="https://img.shields.io/badge/React-0D1B2A?style=for-the-badge&logo=react&logoColor=6C8EEF" />
 <img src="https://img.shields.io/badge/Vue.js-1B3A6B?style=for-the-badge&logo=vuedotjs&logoColor=6C8EEF" />
