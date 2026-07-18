@@ -12,7 +12,7 @@
 
 ```
 Class    : Computer Science, 4th Semester @ BINUS University
-Role     : Backend Developer Intern @ PT Radius (Radius Data)
+Role     : Backend Developer
 Arcana   : Justice (Idk, this is from survey)
 Goal     : Software Engineer @ Atlus / Sega
 Language : ID / EN, casually mixed
