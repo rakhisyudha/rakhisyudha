@@ -17,10 +17,6 @@ Arcana   : Justice (Idk, this is from survey)
 Goal     : Software Engineer @ Atlus / Sega
 Language : ID / EN, casually mixed
 ```
-
-I build backend systems the way a Persona team builds a Palace strategy. Plan the
-architecture first, then go floor by floor until it's stable.
-
 <br/>
 
 ##  Social Link — Tech Stack
