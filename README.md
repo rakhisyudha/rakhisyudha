@@ -72,13 +72,10 @@ Language : ID / EN, casually mixed
 <a href="https://github.com/rakhisyudha"><img src="https://img.shields.io/badge/GitHub-0D1B2A?style=for-the-badge&logo=github&logoColor=6C8EEF" /></a>
 <a href="https://www.linkedin.com/in/rakhis-yudha/"><img src="https://img.shields.io/badge/LinkedIn-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=6C8EEF" /></a>
 <a href="https://www.instagram.com/rakhisdeyudha/"><img src="https://img.shields.io/badge/Instagram-1B3A6B?style=for-the-badge&logo=instagram&logoColor=6C8EEF" /></a>
-<img src="https://img.shields.io/badge/Discord-0D1B2A?style=for-the-badge&logo=discord&logoColor=6C8EEF" alt="ravedepr1nz" />
+<a href="https://discord.com/users/461437259128897567"><img src="https://img.shields.io/badge/Discord-0D1B2A?style=for-the-badge&logo=discord&logoColor=6C8EEF" alt="ravedepr1nz" /></a>
 
 </div>
 
-<div align="center">
-<sub>Discord: <code>ravedepr1nz</code></sub>
-</div>
 
 <br/>
 
