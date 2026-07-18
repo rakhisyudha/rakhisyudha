@@ -8,7 +8,7 @@
 
 <br/>
 
-## → Persona
+##  Persona
 
 ```
 Class    : Computer Science, 4th Semester @ BINUS University
@@ -23,7 +23,7 @@ architecture first, then go floor by floor until it's stable.
 
 <br/>
 
-## → Social Link — Tech Stack
+##  Social Link — Tech Stack
 
 <div align="center">
 
@@ -54,7 +54,7 @@ architecture first, then go floor by floor until it's stable.
 
 <br/>
 
-## → Currently In The Dungeon
+##  Currently In The Dungeon
 
 - 🏢 Building a **CRM backend** — Go/Gin + PostgreSQL + Redis
 - ☁️ Wiring up **Google Drive resumable uploads** and GCS integration across the project
@@ -64,7 +64,7 @@ architecture first, then go floor by floor until it's stable.
 
 <br/>
 
-## → Status Screen
+##  Status Screen
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=rakhisyudha&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=6C8EEF&icon_color=3E64FF&text_color=E8EAF6" />
@@ -77,7 +77,7 @@ architecture first, then go floor by floor until it's stable.
 
 <br/>
 
-## → Reach Out
+##  Reach Out
 
 <div align="center">
 
