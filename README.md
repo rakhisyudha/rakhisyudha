@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B3A6B,100:3E64FF&height=220&section=header&text=Rakhis%20Yudha&fontSize=48&fontColor=E8EAF6&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20CS%20Student%20%40%20BINUS&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3500&pause=1200&color=6C8EEF&center=true&vCenter=true&width=600&lines=%22The+cost+of+truly+living...%22;Backend+Developer;Go+%2F+Gin+%2F+PostgreSQL+%2F+Redis;Aiming+for+SEGA+%2F+ATLUS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3500&pause=1200&color=6C8EEF&center=true&vCenter=true&width=600&lines=%22The+cost+of+truly+living...%22;Backend+Developer;Go+%2F+Gin+%2F+PostgreSQL+%2F+Redis" alt="Typing SVG" />
 
 </div>
 
