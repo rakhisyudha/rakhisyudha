@@ -86,7 +86,7 @@ Language : ID / EN, casually mixed
 <br/>
 
 <div align="center">
-<sub><i>"It's not the end. As long as we remember each other, we're not truly gone."</i></sub>
+<sub><i>"Whatever fate has delivered to you, love it."</i></sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E64FF,50:1B3A6B,100:0D1B2A&height=100&section=footer" width="100%"/>
