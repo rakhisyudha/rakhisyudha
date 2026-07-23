@@ -57,7 +57,7 @@ Language : ID / EN, casually mixed
 
 ##  Currently In The Dungeon
 
-- 🏢 Building a **CRM backend** — Go/Gin + PostgreSQL + Redis, dual-environment Docker deployment on a VPS
+- 🏢 Building a **CRM backend** using Go/Gin + PostgreSQL + Redis, dual-environment Docker deployment on a VPS
 - ☁️ Wiring up **Google Drive resumable uploads** and GCS integration across the project
 - 📬 Shipped an **email notification system** with DKIM/SPF/DMARC 
 
