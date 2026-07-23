@@ -13,7 +13,7 @@
 ```
 Class    : Computer Science, 4th Semester @ BINUS University
 Role     : Backend Developer
-Arcana   : Still deciding — currently leaning with Justice 
+Arcana   : Still deciding, currently leaning with Justice 
 Language : ID / EN, casually mixed
 ```
 <br/>
