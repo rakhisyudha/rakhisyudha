@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B3A6B,100:3E64FF&height=220&section=header&text=Rakhis%20Yudha&fontSize=48&fontColor=E8EAF6&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20CS%20Student%20%40%20BINUS&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B3A6B,100:3E64FF&height=220&section=header&text=Rakhis%20Yudha&fontSize=48&fontColor=E8EAF6&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20CS%20Student%20%40%20BINUS&descAlignY=58&descSize=18" width="100%"/> 
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3500&pause=1200&color=6C8EEF&center=true&vCenter=true&width=600&lines=%22When+one+falls...;We+continue.%22" alt="Typing SVG" />
 
@@ -8,20 +8,21 @@
 
 <br/>
 
-##  Persona
+## → Persona
 
 ```
 Class    : Computer Science, 5th Semester @ BINUS University
-Role     : Backend Developer
-Arcana   : Still deciding, currently leaning with Justice 
+Role     : Software Engineer
+Arcana   : Justice
 Language : ID / EN, casually mixed
 ```
+
 <br/>
 
-##  Tech Stack
+## → Tech Stack
 
 <div align="center">
-  
+
 **Backend**
 
 <img src="https://img.shields.io/badge/Go-1B3A6B?style=for-the-badge&logo=go&logoColor=6C8EEF" />
@@ -33,6 +34,7 @@ Language : ID / EN, casually mixed
 <img src="https://img.shields.io/badge/Node.js-1B3A6B?style=for-the-badge&logo=node.js&logoColor=6C8EEF" />
 <img src="https://img.shields.io/badge/Express-0D1B2A?style=for-the-badge&logo=express&logoColor=6C8EEF" />
 <img src="https://img.shields.io/badge/Laravel-1B3A6B?style=for-the-badge&logo=laravel&logoColor=6C8EEF" />
+<img src="https://img.shields.io/badge/Bun-0D1B2A?style=for-the-badge&logo=bun&logoColor=6C8EEF" />
 
 **Infra & Cloud**
 
@@ -51,27 +53,43 @@ Language : ID / EN, casually mixed
 <img src="https://img.shields.io/badge/HTML5-1B3A6B?style=for-the-badge&logo=html5&logoColor=6C8EEF" />
 <img src="https://img.shields.io/badge/CSS3-0D1B2A?style=for-the-badge&logo=css3&logoColor=6C8EEF" />
 <img src="https://img.shields.io/badge/Git-1B3A6B?style=for-the-badge&logo=git&logoColor=6C8EEF" />
+
 </div>
 
 <br/>
 
-##  Currently In The Dungeon
+## → Currently In The Dungeon
 
-- 🏢 Building a **CRM backend** using Go/Gin + PostgreSQL + Redis, dual-environment Docker deployment on a VPS
-- ☁️ Wiring up **Google Drive resumable uploads** and GCS integration across the project
-- 📬 Shipped an **email notification system** with DKIM/SPF/DMARC 
+-  Self-deploying a **full-stack app** (Next.js, Bun, Supabase) end-to-end on a private VPS
+-  Building a **custom CMS** with Bun + Supabase, plus a Medium/Substack-style on `ravedeprinz.me/notes`
+-  Post-review backend hardening on the CRM: swapped raw SQL for **sqlc**, fixed cross-instance token revocation with a **Redis-backed blacklist**, killed N+1 queries with batched **CTEs**
+-  Made outbound email resilient with an **async queue (asynq/Redis)**
 
 <br/>
 
-##  Status Screen
+## → Status Screen
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rakhisyudha&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=6C8EEF&icon_color=3E64FF&text_color=E8EAF6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhisyudha&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=6C8EEF&text_color=E8EAF6" />
+</div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=rakhisyudha&hide_border=true&background=0D1B2A&ring=3E64FF&fire=6C8EEF&currStreakLabel=6C8EEF&currStreakNum=E8EAF6&sideNums=E8EAF6&sideLabels=E8EAF6&dates=6C8EEF" />
 </div>
 
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/rakhisyudha?style=for-the-badge&color=1B3A6B&labelColor=0D1B2A&logo=github&logoColor=6C8EEF" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=1B3A6B&labelColor=0D1B2A&logo=github&logoColor=6C8EEF&label=Repos&query=public_repos&url=https://api.github.com/users/rakhisyudha" />
+
+</div>
+
+<sub align="center">(If the stats cards above show as broken images, it's usually the third-party stats service being rate-limited — it fixes itself after a while, or you can regenerate the link at <a href="https://github-readme-stats.vercel.app">github-readme-stats.vercel.app</a>.)</sub>
+
 <br/>
 
-##  Reach Out
+## → Reach Out
 
 <div align="center">
 
@@ -82,6 +100,9 @@ Language : ID / EN, casually mixed
 
 </div>
 
+<div align="center">
+<sub>Discord: <code>ravedepr1nz</code></sub>
+</div>
 
 <br/>
 
