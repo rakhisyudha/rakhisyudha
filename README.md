@@ -8,18 +8,18 @@
 
 <br/>
 
-## → Persona
+## Persona
 
 ```
 Class    : Computer Science, 5th Semester @ BINUS University
 Role     : Software Engineer
 Arcana   : Justice
-Language : ID / EN, casually mixed
+Language : ID / EN
 ```
 
 <br/>
 
-## → Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -58,7 +58,7 @@ Language : ID / EN, casually mixed
 
 <br/>
 
-## → Currently In The Dungeon
+## Currently In The Dungeon
 
 -  Self-deploying a **full-stack app** (Next.js, Bun, Supabase) end-to-end on a private VPS
 -  Building a **custom CMS** with Bun + Supabase, plus a Medium/Substack-style on `ravedeprinz.me/notes`
@@ -67,7 +67,7 @@ Language : ID / EN, casually mixed
 
 <br/>
 
-## → Status Screen
+## Status Screen
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=rakhisyudha&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=6C8EEF&icon_color=3E64FF&text_color=E8EAF6" />
@@ -89,7 +89,7 @@ Language : ID / EN, casually mixed
 
 <br/>
 
-## → Reach Out
+## Reach Out
 
 <div align="center">
 
