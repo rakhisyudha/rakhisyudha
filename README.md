@@ -85,8 +85,6 @@ Language : ID / EN
 
 </div>
 
-<sub align="center">(If the stats cards above show as broken images, it's usually the third-party stats service being rate-limited — it fixes itself after a while, or you can regenerate the link at <a href="https://github-readme-stats.vercel.app">github-readme-stats.vercel.app</a>.)</sub>
-
 <br/>
 
 ## Reach Out
