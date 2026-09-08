@@ -23,36 +23,37 @@ Language : ID / EN
 
 <div align="center">
 
-**Backend**
+Backend
 
-<img src="https://img.shields.io/badge/Go-1B3A6B?style=for-the-badge&logo=go&logoColor=6C8EEF" />
-<img src="https://img.shields.io/badge/Gin-0D1B2A?style=for-the-badge&logo=gin&logoColor=6C8EEF" />
-<img src="https://img.shields.io/badge/PostgreSQL-1B3A6B?style=for-the-badge&logo=postgresql&logoColor=6C8EEF" />
-<img src="https://img.shields.io/badge/MySQL-0D1B2A?style=for-the-badge&logo=mysql&logoColor=6C8EEF" />
-<img src="https://img.shields.io/badge/MongoDB-1B3A6B?style=for-the-badge&logo=mongodb&logoColor=6C8EEF" />
-<img src="https://img.shields.io/badge/Redis-0D1B2A?style=for-the-badge&logo=redis&logoColor=6C8EEF" />
-<img src="https://img.shields.io/badge/Node.js-1B3A6B?style=for-the-badge&logo=node.js&logoColor=6C8EEF" />
-<img src="https://img.shields.io/badge/Express-0D1B2A?style=for-the-badge&logo=express&logoColor=6C8EEF" />
-<img src="https://img.shields.io/badge/Laravel-1B3A6B?style=for-the-badge&logo=laravel&logoColor=6C8EEF" />
-<img src="https://img.shields.io/badge/Bun-0D1B2A?style=for-the-badge&logo=bun&logoColor=6C8EEF" />
+<img src="https://img.shields.io/badge/Go-1B3A6B?style=for-the-badge&logo=go&logoColor=6C8EEF" /> 
+<img src="https://img.shields.io/badge/Gin-0D1B2A?style=for-the-badge&logo=gin&logoColor=6C8EEF" /> 
+<img src="https://img.shields.io/badge/PostgreSQL-1B3A6B?style=for-the-badge&logo=postgresql&logoColor=6C8EEF" /> 
+<img src="https://img.shields.io/badge/MySQL-0D1B2A?style=for-the-badge&logo=mysql&logoColor=6C8EEF" /> 
+<img src="https://img.shields.io/badge/MongoDB-1B3A6B?style=for-the-badge&logo=mongodb&logoColor=6C8EEF" /> <img src="https://img.shields.io/badge/Redis-0D1B2A?style=for-the-badge&logo=redis&logoColor=6C8EEF" /> <img src="https://img.shields.io/badge/Node.js-1B3A6B?style=for-the-badge&logo=node.js&logoColor=6C8EEF" /> 
+<img src="https://img.shields.io/badge/Express-0D1B2A?style=for-the-badge&logo=express&logoColor=6C8EEF" /> 
+<img src="https://img.shields.io/badge/Laravel-1B3A6B?style=for-the-badge&logo=laravel&logoColor=6C8EEF" /> 
+<img src="https://img.shields.io/badge/Bun-0D1B2A?style=for-the-badge&logo=bun&logoColor=6C8EEF" /> 
+<img src="https://img.shields.io/badge/Supabase-1B3A6B?style=for-the-badge&logo=supabase&logoColor=6C8EEF" />
 
-**Infra & Cloud**
+Infra & Cloud
 
-<img src="https://img.shields.io/badge/Docker-1B3A6B?style=for-the-badge&logo=docker&logoColor=6C8EEF" />
-<img src="https://img.shields.io/badge/Nginx-0D1B2A?style=for-the-badge&logo=nginx&logoColor=6C8EEF" />
-<img src="https://img.shields.io/badge/Google_Cloud-1B3A6B?style=for-the-badge&logo=googlecloud&logoColor=6C8EEF" />
-<img src="https://img.shields.io/badge/WireGuard-0D1B2A?style=for-the-badge&logo=wireguard&logoColor=6C8EEF" />
+<img src="https://img.shields.io/badge/Docker-1B3A6B?style=for-the-badge&logo=docker&logoColor=6C8EEF" /> 
+<img src="https://img.shields.io/badge/Nginx-0D1B2A?style=for-the-badge&logo=nginx&logoColor=6C8EEF" /> 
+<img src="https://img.shields.io/badge/Google_Cloud-1B3A6B?style=for-the-badge&logo=googlecloud&logoColor=6C8EEF" /> 
+<img src="https://img.shields.io/badge/WireGuard-0D1B2A?style=for-the-badge&logo=wireguard&logoColor=6C8EEF" /> 
 <img src="https://img.shields.io/badge/Jenkins-1B3A6B?style=for-the-badge&logo=jenkins&logoColor=6C8EEF" />
 
-**Frontend / Mobile**
+Frontend / Mobile
 
-<img src="https://img.shields.io/badge/JavaScript-1B3A6B?style=for-the-badge&logo=javascript&logoColor=6C8EEF" />
-<img src="https://img.shields.io/badge/React-0D1B2A?style=for-the-badge&logo=react&logoColor=6C8EEF" />
-<img src="https://img.shields.io/badge/Vue.js-1B3A6B?style=for-the-badge&logo=vuedotjs&logoColor=6C8EEF" />
-<img src="https://img.shields.io/badge/Flutter-0D1B2A?style=for-the-badge&logo=flutter&logoColor=6C8EEF" />
-<img src="https://img.shields.io/badge/HTML5-1B3A6B?style=for-the-badge&logo=html5&logoColor=6C8EEF" />
-<img src="https://img.shields.io/badge/CSS3-0D1B2A?style=for-the-badge&logo=css3&logoColor=6C8EEF" />
-<img src="https://img.shields.io/badge/Git-1B3A6B?style=for-the-badge&logo=git&logoColor=6C8EEF" />
+<img src="https://img.shields.io/badge/JavaScript-1B3A6B?style=for-the-badge&logo=javascript&logoColor=6C8EEF" /> 
+<img src="https://img.shields.io/badge/React-0D1B2A?style=for-the-badge&logo=react&logoColor=6C8EEF" /> 
+<img src="https://img.shields.io/badge/Vue.js-1B3A6B?style=for-the-badge&logo=vuedotjs&logoColor=6C8EEF" /> 
+<img src="https://img.shields.io/badge/Svelte-0D1B2A?style=for-the-badge&logo=svelte&logoColor=6C8EEF" /> 
+<img src="https://img.shields.io/badge/Astro-1B3A6B?style=for-the-badge&logo=astro&logoColor=6C8EEF" /> 
+<img src="https://img.shields.io/badge/Flutter-0D1B2A?style=for-the-badge&logo=flutter&logoColor=6C8EEF" /> 
+<img src="https://img.shields.io/badge/HTML5-1B3A6B?style=for-the-badge&logo=html5&logoColor=6C8EEF" /> 
+<img src="https://img.shields.io/badge/CSS3-0D1B2A?style=for-the-badge&logo=css3&logoColor=6C8EEF" /> 
+<img src="https://img.shields.io/badge/Git-1B3A6B?style=for-the-badge&logo=git&logoColor=6C8EEF" /> 
 
 </div>
 
