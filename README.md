@@ -63,8 +63,6 @@ Frontend / Mobile
 
 -  Self-deploying a **full-stack app** (Astro + Svelte, Bun, Postgre) end-to-end on a private VPS
 -  Building a **custom CMS** with Bun + Postgre, plus a Magazine/Journal-style on `ravedeprinz.me/notes`
--  Post-review backend hardening on the CRM: swapped raw SQL for **sqlc**, fixed cross-instance token revocation with a **Redis-backed blacklist**, killed N+1 queries with batched **CTEs**
--  Made outbound email resilient with an **async queue (asynq/Redis)**
 
 <br/>
 
