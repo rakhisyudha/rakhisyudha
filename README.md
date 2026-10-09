@@ -69,12 +69,12 @@ Frontend / Mobile
 ## Status Screen
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rakhisyudha&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=6C8EEF&icon_color=3E64FF&text_color=E8EAF6" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhisyudha&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=6C8EEF&text_color=E8EAF6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rakhisyudha&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=6C8EEF&icon_color=3E64FF&text_color=E8EAF6&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhisyudha&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=6C8EEF&text_color=E8EAF6&langs_count=8&size_weight=0.5&count_weight=0.5" />
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=rakhisyudha&hide_border=true&background=0D1B2A&ring=3E64FF&fire=6C8EEF&currStreakLabel=6C8EEF&currStreakNum=E8EAF6&sideNums=E8EAF6&sideLabels=E8EAF6&dates=6C8EEF" />
+  <img src="https://streak-stats.demolab.com/?user=rakhisyudha&hide_border=true&background=0D1B2A&ring=3E64FF&fire=6C8EEF&currStreakLabel=6C8EEF&currStreakNum=E8EAF6&sideNums=E8EAF6&sideLabels=E8EAF6&dates=6C8EEF" />
 </div>
 
 <div align="center">
