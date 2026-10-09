@@ -69,8 +69,8 @@ Frontend / Mobile
 ## Status Screen
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rakhisyudha&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=6C8EEF&icon_color=3E64FF&text_color=E8EAF6&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhisyudha&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=6C8EEF&text_color=E8EAF6&langs_count=8&size_weight=0.5&count_weight=0.5" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=rakhisyudha&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=6C8EEF&icon_color=3E64FF&text_color=E8EAF6&include_all_commits=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rakhisyudha&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=6C8EEF&text_color=E8EAF6&langs_count=8&size_weight=0.5&count_weight=0.5" />
 </div>
 
 <div align="center">
